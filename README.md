@@ -1,2 +1,2 @@
 # streamwork
-Source code of Streamwork using Google Appscripts.
+Source code of Streamwork using Google Apps Scripts.
