@@ -8,3 +8,7 @@ Browser Link: https://www.appsheet.com/start/571e27e7-cca8-4312-b28c-1dcb64f3176
 
 ## Link to Google Drive
 https://drive.google.com/drive/folders/1qRS3BWDjcF20tvzVrrfZFig4qmZ6BWe_?usp=sharing
+
+## Info
+Group Name: Streamline Architects
+<br>This is uploaded as one of the submission deliverables for the GDSC APU Google Hackathon 2024.
